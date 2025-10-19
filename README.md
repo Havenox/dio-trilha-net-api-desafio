@@ -78,3 +78,9 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 6 - aplicando a migrations no banco
 
+7 - Criando o endpoint Obter todos
+
+8 - Criando o endpoint obter por titulo
+
+9 - Criando o endpoint adicionar tarefa
+

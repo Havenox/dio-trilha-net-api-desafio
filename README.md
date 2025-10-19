@@ -85,3 +85,5 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 9 - Criando o endpoint adicionar tarefa
 
 10 - Criando o endpoint PUT, para editar tarefa pelo id
+
+11 - Criado o endpoint DELETE para remover tarefa pelo id

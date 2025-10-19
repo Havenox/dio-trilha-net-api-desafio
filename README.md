@@ -1,5 +1,31 @@
 # DIO - Trilha .NET - API e Entity Framework
-www.dio.me
+
+
+# Resumo do que foi feito
+
+#### 1 - Adicionado String de Conexão do DB.
+
+#### 2 - Criado o endpoint get by id
+
+#### 3 - Ajustado o nome do banco na string de conexão para Tarefas
+ 
+#### 4 - Importando ao projeto a package EF Core.
+
+#### 5 - Criado a primeira Migrations para o Banco
+
+#### 6 - aplicando a migrations no banco
+
+#### 7 - Criando o endpoint Obter todos
+
+#### 8 - Criando o endpoint obter por titulo
+
+#### 9 - Criando o endpoint adicionar tarefa
+
+#### 10 - Criando o endpoint PUT, para editar tarefa pelo id
+
+#### 11 - Criado o endpoint DELETE para remover tarefa pelo id
+
+
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de API e Entity Framework, da trilha .NET da DIO.
@@ -63,27 +89,3 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 
 
 
-
-# O que foi feito
-
-1 - Adicionado String de Conexão do DB.
-
-2 - Criado o endpoint get by id
-
-3 - Ajustado o nome do banco na string de conexão para Tarefas
-
-4 - Importando ao projeto a package EF Core.
-
-5 - Criado a primeira Migrations para o Banco
-
-6 - aplicando a migrations no banco
-
-7 - Criando o endpoint Obter todos
-
-8 - Criando o endpoint obter por titulo
-
-9 - Criando o endpoint adicionar tarefa
-
-10 - Criando o endpoint PUT, para editar tarefa pelo id
-
-11 - Criado o endpoint DELETE para remover tarefa pelo id

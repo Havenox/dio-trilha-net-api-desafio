@@ -77,3 +77,4 @@ O código está pela metade, e você deverá dar continuidade obedecendo as regr
 5 - Criado a primeira Migrations para o Banco
 
 6 - aplicando a migrations no banco
+
